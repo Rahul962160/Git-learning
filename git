@@ -45,3 +45,7 @@ Pull request on github- lets you tell others about changes you've pushed to a br
 
 push command - local -> github
 pull command - github -> local
+
+Merge Conflicts -
+
+An event that takes place when Git is unable to automatically resolve differences in code between two commitss.
