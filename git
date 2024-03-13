@@ -34,7 +34,6 @@ Branch Command -
 git checkout <-branch name-> (to navigate to the branch name)
 git checkout -b <-new branch name-> (to create new branch)
 git branch -d <-branch name-> (to delete any branch)
-<<<<<<< HEAD
 git push --set-upstream origin <-branch name-> (to add new branch on github)
 
 Merging Code -
@@ -50,9 +49,7 @@ pull command - github -> local
 Merge Conflicts -
 
 An event that takes place when Git is unable to automatically resolve differences in code between two commitss.
-=======
 
 Merge Conflicts -
 
 An event that takes place when Git is unable to automatically resolve differences in code between two commits.
->>>>>>> main
