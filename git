@@ -1,0 +1,11 @@
+git status - is used to get the status of your file
+
+git config -list = gives
+
+commit - is a two step process
+
+1. git add index.html- add is done before commit which add new or changes file in working directory
+
+- to commit all file at same so to add all files we use = git add .
+
+2. to commit = git commit -m "Some message"
