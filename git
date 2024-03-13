@@ -35,3 +35,7 @@ git checkout <-branch name-> (to navigate to the branch name)
 git checkout -b <-ne
 w branch name-> (to create new branch)
 git branch -d <-branch name-> (to delete any branch)
+
+Merge Conflicts -
+
+An event that takes place when Git is unable to automatically resolve differences in code between two commits.
