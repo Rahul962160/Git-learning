@@ -32,6 +32,16 @@ Local Git(on vs code) - code change -> add(stage change) -> commit(commit change
 Branch Command -
 
 git checkout <-branch name-> (to navigate to the branch name)
-git checkout -b <-ne
-w branch name-> (to create new branch)
+git checkout -b <-new branch name-> (to create new branch)
 git branch -d <-branch name-> (to delete any branch)
+git push --set-upstream origin <-branch name-> (to add new branch on github)
+
+Merging Code -
+
+git diff <-branch name-> (to compare commits, branches, files & more)
+git merge <-branch name-> (to merge 2 branches)
+OR
+Pull request on github- lets you tell others about changes you've pushed to a branch in a repository on Github
+
+push command - local -> github
+pull command - github -> local
