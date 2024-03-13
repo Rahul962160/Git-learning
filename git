@@ -10,6 +10,10 @@ commit - is a two step process
 
 2. to commit = git commit -m "Some message"
 
+3. shortcut to add and commit at once - git commit -am "message"
+
+4. use git push origin main = to show the change in git hub account
+
 init - used to create a new git repositpry
 
 git remote add origin <-link->
@@ -17,3 +21,17 @@ git remote -v (to verify remote)
 git branch (to check branch)
 git branch -M main (to rename branch if default is set to - master)
 git push origin main (to push your repository in main branch)
+
+to set your branch defualt -= git push -u origin main
+
+WorkFlow-
+
+Github - code changes ->commit
+Local Git(on vs code) - code change -> add(stage change) -> commit(commit change) ->push
+
+Branch Command -
+
+git checkout <-branch name-> (to navigate to the branch name)
+git checkout -b <-ne
+w branch name-> (to create new branch)
+git branch -d <-branch name-> (to delete any branch)
